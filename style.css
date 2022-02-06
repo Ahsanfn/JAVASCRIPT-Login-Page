@@ -30,11 +30,11 @@ body {
   display: block;
   margin: 20px auto;
   text-align: center;
-  border: 3px solid #0367fd;
+  border: 3px solid #0e6eff;
   padding: 14px 10px;
   width: 220px;
   outline: none;
-  color: white;
+  color: rgb(250, 242, 242);
   border-radius: 24px;
   transition: 0.25px;
 }
@@ -42,7 +42,7 @@ body {
 .box input[type="text"]:focus,
 .box input[type="password"]:focus {
   width: 270px;
-  background-color: rgb(158, 136, 136);
+  background-color: rgb(156, 138, 138);
 }
 
 .box input[type="submit"] {
@@ -54,7 +54,7 @@ body {
   border: 3px solid #ffc400ec;
   padding: 14px 35px;
   outline: none;
-  color: black;
+  color: rgb(8, 8, 8);
   border-radius: 24px;
   transition: 0.25px;
   cursor: pointer;
